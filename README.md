@@ -1,0 +1,1 @@
+# Girilen integer değerine göre hangi ayda(month) ve hangi mevsimde olduğumuzu gösteren switch case projesidir.
